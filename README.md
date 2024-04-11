@@ -1,2 +1,1 @@
-# prueba-automatizada
-prueba automizada
+# Automatizada
